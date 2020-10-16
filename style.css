@@ -13,51 +13,49 @@
 body::first-line{
     font-weight: bold;
     font-size:32px;
-
-
 }
 
 ::selection {
-  color: #efefef;
-  background-color: #0066cc;
+    color: #efefef;
+    background-color: #0066cc;
 }
 
 ::-moz-selection {
-  color: #efefef;
-  background-color: #0066cc;
+    color: #efefef;
+    background-color: #0066cc;
 }
 
 ::-o-selection {
-  color: #efefef;
-  background-color: #0066cc;
+    color: #efefef;
+    background-color: #0066cc;
 }
 
 ::-ms-selection {
-  color: #efefef;
-  background-color: #0066cc;
+    color: #efefef;
+    background-color: #0066cc;
 }
 
 ::-webkit-selection {
-  color: #efefef;
-  background-color: #0066cc;
+    color: #efefef;
+    background-color: #0066cc;
 }
 
 ::-webkit-scrollbar {
-  width: 5px;
+    width: 5px;
 }
 
 body::-webkit-scrollbar {
-  width: 12px;
+    width: 12px;
 }
 
 ::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 0px #efefef;
+    box-shadow: inset 0 0 0px #efefef;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #0066cc;
-  border-radius: 4px;
+    background: #0066cc;
+    border-radius: 4px;
 }
 ::-webkit-scrollbar-track-piece {
-  background: #efefef;
+    background: #efefef;
 }
